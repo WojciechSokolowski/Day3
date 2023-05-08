@@ -62,7 +62,7 @@ namespace C10Inheritance
                 }
 
             }
-
+            Console.ReadKey();
         }
     }
 }

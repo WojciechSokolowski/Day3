@@ -11,7 +11,7 @@ namespace C10Inheritance
 
         public void Code()
         {
-            Console.WriteLine("I'm coding with "+ProgrammingLanguage)
+            Console.WriteLine("I'm coding with " + ProgrammingLanguage);
         }
 
         private void Test()
